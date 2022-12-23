@@ -1,2 +1,3 @@
-# CV_final_project
-Final project for the Intro to CV course
+# Electromagnetic Calorimeter shower classification
+Validation of the machine learning approach on the LHCb use case
+*Made by Tigran Ramazyan, Daniil Sobolev, Evgeny Gurov*
